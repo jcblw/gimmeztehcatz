@@ -1,0 +1,7 @@
+{
+  "content" : ".linklisting a",
+  "next" : "[rel*=\"next\"]",
+  "imageFilter" : "[src*=\".gif\"]",
+  "entryUrl" : "http://www.reddit.com/r/CatGifs",
+  "saveDir" : "./catgifs"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "gimmeztehcatz",
+  "version": "0.0.5",
+  "description": "a crawler that pull down a bunch of images, hopefully of cats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"All the catz have been save because of this test.\""
+  },
+  "keywords": [
+    "catz",
+    "crawler"
+  ],
+  "author": "Jacob Lowe",
+  "license": "MIT",
+  "dependencies": {
+    "crawler": "~0.2.5",
+    "request": "~2.34.0"
+  }
+}
