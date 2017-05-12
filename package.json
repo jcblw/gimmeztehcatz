@@ -13,7 +13,7 @@
   "author": "Jacob Lowe",
   "license": "MIT",
   "dependencies": {
-    "crawler": "~0.2.5",
-    "request": "~2.34.0"
+    "crawler": "~1.0.5",
+    "request": "~2.81.0"
   }
 }
